@@ -8,7 +8,7 @@ public class Cadena {
         System.out.println("Este sistema está recorriendo la cadena:");
         for (int i = 0; i < cadena.length(); i++) {
             char caracter = cadena.charAt(i);
-            System.out.println("Carácter en posición " + i + ": " + );
+            System.out.println("Carácter en posición " + i + ": " + caracter);
         }
     }
 
